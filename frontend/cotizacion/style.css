@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    margin:0;
+}
+.tabla{
+    width: 35%!important;
+}
+.sec-derec{
+    gap: 1rem;
+}
+.parte-media {
+    width: 55%;
+    padding: 20px;
+    border-radius: 10px;
+    border-right: 2px solid rgb(255, 255, 255);
+
+}
+  
+.parte-derecho {
+    
+    width: 40%;
+    padding: 20px;
+    border-radius: 10px;
+}
+.parte-izquierda {
+    
+    width: 20%;
+    border-right: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+  
+  
+  }

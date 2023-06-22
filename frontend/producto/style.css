@@ -1,0 +1,9 @@
+body{
+    display: flex;
+}
+.tabla{
+    width: 60%;
+}
+.sec-derec{
+    gap: 1rem;
+}
